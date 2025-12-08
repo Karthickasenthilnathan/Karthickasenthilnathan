@@ -4,9 +4,7 @@
 
 ### Aspiring SDE · ML & Cybersecurity Practitioner · Passionate Problem-Solver · CS Sophomore  
 
-<div align="center">  
-  <img src="file:///C:/Users/admin/Downloads/Helloooo%F0%9F%91%8A%20%F0%9F%98%B8.jpg" width="200" alt="cute pastel coding gif"/>  
-</div>  
+
 
 ---
 
@@ -31,18 +29,8 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Karthickasenthilnathan&show_icons=true&theme=react" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthickasenthilnathan&layout=compact&theme=react" height="180">
-
-</div>
 
 
----
 
 ## 💡 My Story (Very Short)  
 I discovered coding during my first year of engineering — started with Java, then JS/React for web, and Python opened my eyes to AI & ML.  

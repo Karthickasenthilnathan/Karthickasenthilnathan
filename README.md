@@ -1,11 +1,11 @@
-<!-- ──────────────── START README ──────────────── -->
+
 
 # 🌸 Hi, I’m **Karthicka** 👋  
 
 ### Aspiring SDE · ML & Cybersecurity Practitioner · Passionate Problem-Solver · CS Sophomore  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="cute pastel coding gif"/>  
+  <img src="file:///C:/Users/admin/Downloads/Helloooo%F0%9F%91%8A%20%F0%9F%98%B8.jpg" width="200" alt="cute pastel coding gif"/>  
 </div>  
 
 ---
@@ -16,7 +16,7 @@
 - AI / ML / OpenCV / Automation  
 - Problem-solving & Competitive Programming (LeetCode / HackerRank)  
 
----
+
 
 ## 🛠️ Skills & Tools  
 
@@ -33,8 +33,14 @@
 
 ## 📈 GitHub Stats  
 
-![Karthicka’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthickasenthilnathan&show_icons=true&theme=react)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthickasenthilnathan&layout=compact&theme=react)  
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Karthickasenthilnathan&show_icons=true&theme=react" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthickasenthilnathan&layout=compact&theme=react" height="180">
+
+</div>
+
 
 ---
 
@@ -52,20 +58,7 @@ Let’s build something meaningful together. 🚀
 
 > **PS:** Portfolio / projects → [karthicka-s-portfolio](https://karthicka-s-portfolio.vercel.app/)  
 
-<!-- ──────────────── END README ──────────────── -->
 
 
-<!--
-**Karthickasenthilnathan/Karthickasenthilnathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

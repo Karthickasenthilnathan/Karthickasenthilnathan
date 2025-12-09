@@ -49,7 +49,8 @@ Let’s build something meaningful together. 🚀
 ---
 
 ##GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=Kathickasenthilnathan&commits_year=2025)
+https://github-readme-stats-git-masterorgs.vercel.app/api?username=Kathickasenthilnathan&commits_year=2025
+
 
 
 

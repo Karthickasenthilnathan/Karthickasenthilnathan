@@ -44,7 +44,12 @@ When I’m not coding, I try to blend tech + social impact — from volunteering
 
 Let’s build something meaningful together. 🚀  
 
-> **PS:** Portfolio / projects → [karthicka-s-portfolio](https://karthicka-s-portfolio.vercel.app/)  
+> **PS:** Portfolio / projects → [karthicka-s-portfolio](https://karthicka-s-portfolio.vercel.app/)
+
+---
+
+##GitHub Stats
+(https://github-readme-stats.vercel.app/api?username=Kathickasenthilnathan&commits_year=2025)
 
 
 

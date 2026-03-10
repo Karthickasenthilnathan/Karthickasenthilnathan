@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey.<br><br>i build things when i feel like it, this github is where they end up.<br><br>i push code when motivation hits usually on random monday mornings.<br><br>currently playing around with ai and whatever feels interesting.
+hey.<br><br>i build things when i feel like it, this github is where they end up.<br><br>currently playing around with ai and whatever feels interesting.
 
 
 ## 🌐 Socials:

@@ -15,7 +15,4 @@ hey.<br><br>i build things when i feel like it, this github is where they end up
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Karthickasenthilnathan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Karthickasenthilnathan&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
